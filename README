@@ -1,0 +1,3 @@
+- Reads in server_list.txt
+- Writes to server_logs.log_error
+- Rewrites server_list.txt to ensure formating is correct
