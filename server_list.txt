@@ -1,0 +1,7 @@
+ http://www.google.com/,  1
+http://www.yahoo.com/, 2
+http://www.fdsdfsddf.com/,
+http://www.helloworld.com/
+http://www.hiworld.com/ 0
+http://www.dsfsdfds.com/ 2
+http://www.sdfsfg.com/ 3
